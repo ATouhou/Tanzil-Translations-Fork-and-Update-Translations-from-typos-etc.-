@@ -5,7 +5,7 @@ Tanzil Translations [Fork and Update Translations from typos etc.! ]
 I think changes should be done to the .txt file and then with some script converted to other formats... Let me know what you think :-)
 
 
-Some data on the different translators&translations (also from Tanzil):
+Some data on the different translators&translations (also from Tanzil)  It's in JSON format, so just edit file for nice view :-) :
 [
     {
         "CountryCode": "al",
